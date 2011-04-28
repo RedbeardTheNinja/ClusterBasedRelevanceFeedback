@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1071593/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/sep
+END
+IntIndexInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1069912/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/sep/IntIndexInput.java
+END
+IntIndexOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1069912/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/sep/IntIndexOutput.java
+END
+SepPostingsReaderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1071593/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/sep/SepPostingsReaderImpl.java
+END
+SepSkipListWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1071382/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/sep/SepSkipListWriter.java
+END
+SepPostingsWriterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1071593/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/sep/SepPostingsWriterImpl.java
+END
+SepSkipListReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1071382/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/sep/SepSkipListReader.java
+END
+IntStreamFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/931278/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/sep/IntStreamFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1065600/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/sep/package.html
+END

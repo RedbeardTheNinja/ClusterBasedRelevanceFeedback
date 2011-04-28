@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1084134/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/preflex
+END
+SegmentTermEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1065410/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/preflex/SegmentTermEnum.java
+END
+TermBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1040463/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/preflex/TermBuffer.java
+END
+SegmentTermPositions.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1065304/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/preflex/SegmentTermPositions.java
+END
+PreFlexCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1040463/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/preflex/PreFlexCodec.java
+END
+SegmentTermDocs.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1069829/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/preflex/SegmentTermDocs.java
+END
+TermInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1040463/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/preflex/TermInfo.java
+END
+TermInfosReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1065304/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/preflex/TermInfosReader.java
+END
+PreFlexFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1084134/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/preflex/PreFlexFields.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1065600/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/preflex/package.html
+END

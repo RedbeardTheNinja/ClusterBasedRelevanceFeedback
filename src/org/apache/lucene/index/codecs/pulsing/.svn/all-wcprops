@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1074879/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/pulsing
+END
+PulsingCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1074879/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/pulsing/PulsingCodec.java
+END
+PulsingPostingsWriterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1061453/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/pulsing/PulsingPostingsWriterImpl.java
+END
+PulsingPostingsReaderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1071564/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/pulsing/PulsingPostingsReaderImpl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1065600/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/pulsing/package.html
+END

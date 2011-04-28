@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1068526/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/cache
+END
+ShortValuesCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1055409/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/cache/ShortValuesCreator.java
+END
+LongValuesCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1055409/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/cache/LongValuesCreator.java
+END
+DocTermsCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1039382/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/cache/DocTermsCreator.java
+END
+ByteValuesCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1055409/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/cache/ByteValuesCreator.java
+END
+FloatValuesCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1055409/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/cache/FloatValuesCreator.java
+END
+CachedArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1001534/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/cache/CachedArray.java
+END
+EntryKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1001534/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/cache/EntryKey.java
+END
+DoubleValuesCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1055409/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/cache/DoubleValuesCreator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1065600/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/cache/package.html
+END
+EntryCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1068526/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/cache/EntryCreator.java
+END
+SimpleEntryKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1001534/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/cache/SimpleEntryKey.java
+END
+CachedArrayCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1042888/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/cache/CachedArrayCreator.java
+END
+DocTermsIndexCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1061453/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/cache/DocTermsIndexCreator.java
+END
+EntryCreatorWithOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1001534/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/cache/EntryCreatorWithOptions.java
+END
+IntValuesCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1055409/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/cache/IntValuesCreator.java
+END

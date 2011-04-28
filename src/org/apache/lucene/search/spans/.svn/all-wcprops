@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1079707/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/spans
+END
+SpanPayloadCheckQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1065327/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/spans/SpanPayloadCheckQuery.java
+END
+SpanFirstQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1062775/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/spans/SpanFirstQuery.java
+END
+NearSpansOrdered.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1062775/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/spans/NearSpansOrdered.java
+END
+NearSpansUnordered.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1079707/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/spans/NearSpansUnordered.java
+END
+SpanNearPayloadCheckQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1065327/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/spans/SpanNearPayloadCheckQuery.java
+END
+FieldMaskingSpanQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1062775/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/spans/FieldMaskingSpanQuery.java
+END
+SpanNotQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1062775/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/spans/SpanNotQuery.java
+END
+SpanWeight.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1062927/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/spans/SpanWeight.java
+END
+SpanPositionCheckQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1065327/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/spans/SpanPositionCheckQuery.java
+END
+TermSpans.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/931278/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/spans/TermSpans.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1076237/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/spans/package.html
+END
+SpanTermQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1062775/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/spans/SpanTermQuery.java
+END
+SpanScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1061499/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/spans/SpanScorer.java
+END
+Spans.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1062775/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/spans/Spans.java
+END
+SpanQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1062775/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/spans/SpanQuery.java
+END
+SpanOrQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1079707/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/spans/SpanOrQuery.java
+END
+SpanPositionRangeQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1065327/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/spans/SpanPositionRangeQuery.java
+END
+SpanMultiTermQueryWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1062775/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/spans/SpanMultiTermQueryWrapper.java
+END
+SpanNearQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1062775/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/spans/SpanNearQuery.java
+END

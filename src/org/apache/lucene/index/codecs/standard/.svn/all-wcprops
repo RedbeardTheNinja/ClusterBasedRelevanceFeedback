@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1071564/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard
+END
+DefaultSkipListWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/931278/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard/DefaultSkipListWriter.java
+END
+StandardPostingsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1069829/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard/StandardPostingsWriter.java
+END
+DefaultSkipListReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/931278/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard/DefaultSkipListReader.java
+END
+StandardPostingsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1069829/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard/StandardPostingsReader.java
+END
+StandardCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1071564/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard/StandardCodec.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1065600/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard/package.html
+END

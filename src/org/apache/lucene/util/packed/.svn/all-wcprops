@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1065410/lucene/dev/trunk/lucene/src/java/org/apache/lucene/util/packed
+END
+Direct32.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/956286/lucene/dev/trunk/lucene/src/java/org/apache/lucene/util/packed/Direct32.java
+END
+GrowableWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/951104/lucene/dev/trunk/lucene/src/java/org/apache/lucene/util/packed/GrowableWriter.java
+END
+Direct16.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/956286/lucene/dev/trunk/lucene/src/java/org/apache/lucene/util/packed/Direct16.java
+END
+Packed64.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1065304/lucene/dev/trunk/lucene/src/java/org/apache/lucene/util/packed/Packed64.java
+END
+Direct8.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/956286/lucene/dev/trunk/lucene/src/java/org/apache/lucene/util/packed/Direct8.java
+END
+Direct64.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/956286/lucene/dev/trunk/lucene/src/java/org/apache/lucene/util/packed/Direct64.java
+END
+PackedReaderIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/998445/lucene/dev/trunk/lucene/src/java/org/apache/lucene/util/packed/PackedReaderIterator.java
+END
+PackedWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1065304/lucene/dev/trunk/lucene/src/java/org/apache/lucene/util/packed/PackedWriter.java
+END
+PackedInts.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1065410/lucene/dev/trunk/lucene/src/java/org/apache/lucene/util/packed/PackedInts.java
+END
+Packed32.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1065304/lucene/dev/trunk/lucene/src/java/org/apache/lucene/util/packed/Packed32.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1065265/lucene/dev/trunk/lucene/src/java/org/apache/lucene/util/packed/package.html
+END
